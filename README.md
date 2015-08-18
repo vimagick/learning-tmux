@@ -1,3 +1,5 @@
+![](http://tmux.github.io/logo.png)
+
 # 学习tmux
 
 ## 介绍
@@ -30,3 +32,7 @@
 
 - [文档](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1)
 - [图书](https://pragprog.com/book/bhtmux/tmux)
+
+## 交流
+
+我们可以在[Issues](https://github.com/vimagick/learn-tmux/issues)中讨论问题.
