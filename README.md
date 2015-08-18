@@ -28,10 +28,15 @@
 4. 复制粘贴
 5. 工作流程
 
-## 资料
+## 参考
 
 - [文档](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1)
 - [图书](https://pragprog.com/book/bhtmux/tmux)
+- 文章
+  - https://robots.thoughtbot.com/a-tmux-crash-course
+  - http://learnxinyminutes.com/docs/tmux/
+  - https://wiki.archlinux.org/index.php/Tmux
+  - http://minimul.com/teaches/tmux
 
 ## 交流
 
