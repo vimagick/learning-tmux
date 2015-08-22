@@ -40,4 +40,7 @@
 
 ## 交流
 
-我们可以在[Issues](https://github.com/vimagick/learn-tmux/issues)中讨论问题.
+大家可以在[Issues](https://github.com/vimagick/learn-tmux/issues)中讨论问题,
+也可以加入QQ群: 365277982
+
+[![](http://stackexchange.com/users/flair/141612.png)](http://stackexchange.com/users/141612/kev)
